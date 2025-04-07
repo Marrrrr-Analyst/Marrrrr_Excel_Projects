@@ -4,8 +4,8 @@ These projects highlight my expertise in Excel, particularly in data analysis, v
 # Project 1: Dashboard Project
 I developed an interactive salary dashboard that allows users to analyze median salaries and job availability based on job titles, job types, and locations. 
 
-![Dashboard_Project_Pic](assets\Picture_project1.jpg)
-*The image shows the dashboard made from excel*
+![Dashboard_Project_Pic](assets/Picture_project1.jpg)  
+*This image shows the dashboard created using Excel.*
 
 The dashboard lets you change three things: Job Title, Country, and Job Type. Based on what you pick, it shows the median salary, where the jobs are posted, how many jobs there are, and whether a degree is required.
 
